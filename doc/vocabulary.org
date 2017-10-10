@@ -1,6 +1,4 @@
 * Vocabulary
-** hello [hə'ləʊ]
-int. 你好；喂；您好；哈喽 | 网络 哈罗；哈啰；大家好 | Synonym int. ciao,good afternoon,good day,good morning,hi | Antonym int. goodbye
 ** apricot [ˈeɪprɪˌkɒt]
 n. 杏黄色；【植】杏；【植】杏树；杏色 | 网络 杏子；杏桃；杏仁
 ** 杏 [xìng]

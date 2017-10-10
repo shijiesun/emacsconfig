@@ -1,0 +1,67 @@
+* children vocabulary
+** tail [teɪl]
+n. 尾；尾巴；尾部；燕尾服 | v. 跟踪；尾随；盯梢 | adj. 限定继承的 | 网络 尾状物；彗尾；尾端
+** shooting ['ʃuːtɪŋ]
+n. 枪击；枪杀；狩猎；（电影的）拍摄 | v. “shoot”的现在分词 | 网络 射击；投篮；射门 | Synonym n. gunfire,shelling,bombardment,fire,firing
+** diving ['daɪvɪŋ]
+n. 潜水；潜泳 | v. dive的现在分词 | 网络 跳水；深潜；水肺潜水
+** swimming ['swɪmɪŋ]
+n. 游泳；游泳运动 | v. “swim”的现在分词 | 网络 游水；正在游泳；泅水
+** football ['fʊt.bɔːl]
+n. 足球；橄榄球；足球运动；屡起争议的课题 | 网络 美式足球；中国足球；足球比赛 | Synonym n. rugby ball,beach ball,ball,matter,point
+** basketball [ˈbɑːskɪtˌbɔːl]
+n. 【体】篮球运动 | 网络 蓝球；篮球鞋；篮球赛
+** cat [kæt]
+n. 【动】猫；【动】猫科动物；爵士乐爱好者；【船】起锚滑车 | v. 【船】把(锚)吊放在锚架上；宿娼；〈口〉呕吐；〈俚〉寻欢 | abbr. (=computerized axial tomography)【医】计算机化轴向层面X射线摄影法 | 网络 卡特(Carter)；过氧化氢酶(catalase)；卡特彼勒(Caterpillar) | Synonym n. bloke,boy,dude,feline,fella
+** dog [dɒɡ]
+v. 跟踪；笼罩在…心头；弄得…狼狈不堪；被…困扰 | n. 【动】犬；【动】雄性的犬科动物；常用于形容词后；〈侮辱〉卑鄙的人 | 网络 狗；小狗；狗狗 | Synonym v. beleaguer,bother,chase,follow,harass n. canine,hound,mongrel,mutt,pooch
+** 直升飞机 [zhí shēng fēi jī]
+na. helicopter; helicogyre; helicogyro | 网络 Helicopters; vertiplane; a helicopter
+** 羽毛球 [yǔ máo qiú]
+na. badminton; shuttlecock | 网络 Shuttlecocks; bird; tennis
+** pig [pɪɡ]
+n. 【动】猪；小猪；野猪；〈侮辱〉笨蛋 | v. 〈非正式〉大吃特吃；猛吃 | 网络 猪猪；警察；Picture in Graphics | Synonym n. glutton,greedy pig,guzzler,gourmand,brute
+** 熊 [xióng]
+n. bear; a surname | v. upbraid; scold; 〈方〉rebuke | 网络 xiong; Bears; The Bear
+** 气球 [qì qiú]
+na. balloon; airballoon | 网络 Balloons; air balloon; My Balloon
+** elephant [ˈɛlifənt]
+n. 象；【动】大象；〈比喻〉体积庞大的人或物；(美国)共和党的象征 | 网络 小象；大象吹泡泡；枪象
+** window ['wɪndəʊ]
+n. 窗口；窗户；窗玻璃；视窗 | v. 在…安窗子；开窗孔于；【计】把(数据)置入窗口 | 网络 窗口菜单；窗体；窗口对象 | Synonym n. pane,windowpane,glass,glazing,opportunity
+** 花朵 [huā duǒ]
+na. flower; inflorescence | 网络 Flowers; bloom; Blossom
+** 鸽子 [gē zi]
+na. dove; pigeon | 网络 La Paloma; Pigeons; paloma
+** white [waɪt]
+adj. 白的；白色的；白种人的；白人的 | n. 白色；雪白；乳白；白种人 | 网络 怀特；纯白；美白用 | Synonym adj. snowy,silver,silvery,bleached,grey | Antonym adj. black,flushed
+** black [blæk]
+n. 黑色；黑人；黑色人种的人 | adj. 黑的；黑色的；黑暗的；漆黑的 | v. 抵制；拒绝处理（货物）；拒绝同（某人）做生意；使变黑 | 网络 布莱克；纯黑 | Synonym adj. dark,gloomy,obscure,dusky,murky | Antonym adj. light
+** yellow ['jeləʊ]
+n. 黄；黄色 | adj. 黄的；黄色的；黄色人种的；胆怯的 | v. （使）变黄 | 网络 纯黄；黄色系；黄种人 | Synonym adj. creamy,beige,buttery,milky,sallow
+** red [red]
+n. 红色；红葡萄酒；左翼人士；激进分子 | adj. 红的；红色的；充血的；布满血丝的 | 网络 红(redness)；赤焰战场；红颜色 | Synonym n. bolshevik,communist,leftie,socialist,bolshie adj. bloodshot,inflamed,sore,pink,rubicund | Antonym adj. clear,pale
+** noodle ['nuːd(ə)l]
+n. 面条 | v. 随随便便即兴演奏乐器；探索[钻研]某一主意；想出一个主意 | 网络 面类；笨蛋；面食
+** 西瓜 [xī guā]
+n. watermelon | 网络 Citrullus lanatus; watermelons; Citrullus vulgaris
+** sweet [swiːt]
+adj. 含糖的；甜的；香的；芳香的 | n. 糖果；甜点；（称呼亲爱的人）亲爱的 | 网络 甜美；可爱的；斯威特 | Synonym adj. kind n. bonbon,chew,sweetie,mint,candy | Antonym adj. bitter,foul,smelly,harsh,unrewarding
+** fish [fɪʃ]
+n. 鱼；鱼肉 | v. 钓鱼；捕鱼；在…捕鱼（或钓鱼）；摸找 | 网络 荧光原位杂交(fluorescence in situ hybridization)；鱼类；荧光原位杂交技术 | Synonym v. angle,go fishing,catch fish,trawl,fly-fish
+** 菠萝 [bō luó]
+n. pineapple | 网络 pineapples; Ananas comosus; a pineapple
+** 啤酒 [pí jiǔ]
+na. beer | 网络 Ale; Beers; lager
+** 虾 [há] [xiā]
+n. shrimp | 网络 Prawn; Prawns; crab
+** shoe [ʃuː]
+n. 鞋 | v. 给（马）钉蹄铁 | 网络 鞋子；鞋类；靴
+** bread [bred]
+n. 面包；钱 | 网络 面包合唱团；生计；食物 | Synonym n. cash,dough,dosh,bucks,lolly
+** unbrella
+n. 雨伞 | 网络 旺角雀仔街；烂烂
+** 谢谢 [xiè xiè]
+na. thanks; thank you | 网络 Thank you; Thanks; Ta
+** hello [hə'ləʊ]
+int. 你好；喂；您好；哈喽 | 网络 哈罗；哈啰；大家好 | Synonym int. ciao,good afternoon,good day,good morning,hi | Antonym int. goodbye
