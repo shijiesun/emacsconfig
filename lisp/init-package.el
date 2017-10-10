@@ -19,7 +19,7 @@
 (setq bing-dict-show-thesaurus 'both)
 (setq bing-dict-pronunciation-style 'uk)
 (setq bing-dict-save-search-result t)
-(setq bing-dict-org-file "/home/ssj/git/doc/vocabulary.org")
+(setq bing-dict-org-file "/home/ssj/github/emacsconfig/doc/vocabulary.org")
 
 
 (defun bing-dict-detail()

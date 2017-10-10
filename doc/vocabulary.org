@@ -1,0 +1,43 @@
+* Vocabulary
+** apricot [ˈeɪprɪˌkɒt]
+n. 杏黄色；【植】杏；【植】杏树；杏色 | 网络 杏子；杏桃；杏仁
+** 杏 [xìng]
+n. apricot; 【食,植】apricot; a surname | 网络 Prunus armeniaca; Apricots; Armeniaca vulgaris
+** Commentary ['kɒmənt(ə)ri]
+n. 评论；注释；解释；评注 | 网络 解说词；实况报道；批评 | Synonym n. comment,explanation,observation,note,annotation
+** trademark [ˈtreɪdˌmɑː(r)k]
+n. 商标；标记；招牌动作；特征 | 网络 注册商标；牌号；商标权 | Synonym n. symbol,logo,emblem,brand,characteristic
+** helm [helm]
+v. 掌(舵)；掌握；给…戴上头盔 | n. 舵柄；舵轮 | 网络 海姆；驾驶盘；战法之盔
+** ivy ['aɪvɪ]
+n. 【植】常春藤；长春藤 | 网络 艾薇；许嘉凌；艾维
+** generic [dʒə'nerɪk]
+adj. 一般的；普通的；通用的；无厂家商标的 | n. 同“a generic drug” | 网络 泛型；类属；属的 | Synonym adj. general,broad,common,basic,nonspecific | Antonym adj. specific
+** refine [rɪ'faɪn]
+v. 精炼；改进；改善；提纯 | 网络 精制；精练；提炼 | Synonym v. purify,process,treat,filter,distill | Antonym v. contaminate,coarsen
+** semicolon
+n. 分号 | 网络 分号键；分号读作；分号的用法
+** hereby [hɪə(r)'baɪ]
+adv. 特此；以此 | 网络 据此；兹；在此
+** tutorial [tjuː'tɔːriəl]
+n. 教程；（大学导师的）个别辅导时间；辅导材料；使用说明书 | adj. 导师的；私人教师的；辅导的 | 网络 指南；辅导课；个别指导 | Synonym n. class,lesson,seminar,lecture,discussion group
+** bonus ['bəʊnəs]
+n. 奖金；红利；意外收获 | 网络 额外津贴；花红；奖励 | Synonym n. extra,plus,addition,advantage,windfall
+** scratch [skrætʃ]
+v. 划伤；挠；取消；刮坏 | n. 划伤；搔痒；刮（或擦、抓）的刺耳声；挠痒 | adj. 仓促拼凑的；无让杆的；无差点的 | 网络 刮伤；刮痕；扒 | Synonym v. itch,rub,grate,abrade,cancel n. cut,scrape,graze,score,nick | Antonym v. keep,continue
+** 结婚纪念日
+网络 Wedding Anniversary; The Wedding Date; wedding day
+** concise [kən'saɪs]
+adj. 简明的；简练的；简洁的；简略的 | 网络 简约；精炼；简要的 | Synonym adj. brief,short,to the point,succinct,summarizing | Antonym adj. verbose
+** internally [ɪn'tɜːnəli]
+adv. 内部的；体内的 | 网络 在内部；内部地；从内部 | Synonym adv. inside,within,on the inside | Antonym adv. outside
+** internal [ɪn'tɜː(r)n(ə)l]
+n. 内脏；本质 | adj. 内部的；里面的；体内的；（机构）内部的 | 网络 国内的；内在的；内同步 | Synonym adj. interior,inner,inside,core,heart | Antonym adj. external
+** aka [.eɪ keɪ 'eɪ]
+abbr. 又名；亦称 | 网络 抗角蛋白抗体(Anti-keratin antibody)；宜客；又名(also known as)
+** browser ['braʊzə(r)]
+n. 浏览器；浏览程序；浏览图书报刊者；逛商店的人 | 网络 网页浏览器；自带浏览器；计算机浏览器服务
+** 浏览器 [liú lǎn qì]
+n. browser | 网络 Browser; IE; Internet Explorer
+** vocabulary [vəʊ'kæbjʊləri]
+n. 词汇量；（某一语言的）词汇；（某学科中所使用的）词汇 | 网络 词汇表；字汇；单字 | Synonym n. words,language,terms,expressions,terminology
