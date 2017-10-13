@@ -1,4 +1,32 @@
 * Vocabulary
+** gist [dʒɪst]
+n. 要点；大意；主旨 | 网络 胃肠道间质瘤；胃肠间质瘤；胃肠道间质肿瘤 | Synonym n. idea,essence,substance,point,meaning
+** boilerplate ['bɔɪlə(r).pleɪt]
+n. （可供模仿的）样板文件 | 网络 构建样板；创建样板；飞行器的试验样品
+** venerable ['ven(ə)rəb(ə)l]
+adj. （因年高、显要、智慧等）令人尊重的 | 网络 庄严的；值得尊敬的；可尊敬的 | Synonym adj. respected,august,esteemed,honored,honoured | Antonym adj. disreputable
+** viable ['vaɪəb(ə)l]
+adj. 可实施的；切实可行的；可生存的；能独立发展的 | 网络 能养活的；能生存的；能活的 | Synonym adj. practicable,feasible,worthwhile,practical,sustainable | Antonym adj. impossible
+** maze [meɪz]
+n. 迷宫；错综复杂；纵横交错；密如蛛网 | v. 使困惑 | 网络 迷津；迷惑；曲径 | Synonym n. labyrinth,warren,network,web,confusion | Antonym n. order
+** grok [ɡrɒk]
+v. 通过感觉意会 | 网络 格洛克；神交；格罗克
+** conjure ['kʌndʒə(r)]
+v. 变戏法；变魔术；使…变戏法般地出现（或消失） | 网络 祈求；恳求；召唤 | Synonym v. raise,summon,call up,invoke,conjure up
+** linear ['lɪniə(r)]
+adj. 线的；直线的；线状的；（进展）直线式的 | 网络 线性；凌特；线性的 | Synonym adj. lined,line,rectilinear,direct,undeviating
+** nutshell ['nʌt.ʃel]
+n. 坚果的外壳；极小的容器；窄小的房屋；没有价值的东西 | adj. 扼要的 | 网络 坚果壳；坚果外壳；果壳铃 | Synonym n. husk,casing,shell,outer
+** condom ['kɒndɒm]
+n. 安全套；（女用）避孕套 | 网络 保险套；阴茎套；男用避孕套
+** 避孕套 [bì yùn tào] 
+n. condom; contraceptive sheath | 网络 Condoms; French letter; use a condom
+** 裤子 [kù zi] [kù zǐ] 
+na. trousers; pants | 网络 Pants; Bottoms; Pantaloons
+** antonyms ['æntənɪm]
+n. 反义词 | 网络 反义字；相反词；反义词风暴
+** synonyms ['sɪnənɪm]
+n. 同义词；【生】(同物)异名；〈口〉类似物；【生化】同义密码子 | 网络 同义字；数据库中所有同义词；同物异名 | Synonym n. alternative word,substitute,replacement
 ** apricot [ˈeɪprɪˌkɒt]
 n. 杏黄色；【植】杏；【植】杏树；杏色 | 网络 杏子；杏桃；杏仁
 ** 杏 [xìng]
