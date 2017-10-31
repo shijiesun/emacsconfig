@@ -1,4 +1,46 @@
 * Vocabulary
+** 儿歌 [ér gē] 
+na. children's song; nursery rhymes | 网络 Nursery Rhymes; Songs; Children's Song
+** extraneous [ɪk'streɪniəs]
+adj. 没有直接联系的；无关的 | 网络 外来的；无关系的；外部的 | Synonym adj. irrelevant,unrelated,unconnected,inappropriate,beside the point | Antonym adj. pertinent,essential
+** bogus ['bəʊɡəs]
+adj. 假的；伪造的 | n. 赝品 | 网络 妈咪也疯狂；假冒的；冒牌 | Synonym adj. false,fake,counterfeit,phony,phoney | Antonym adj. genuine
+** atypical [.eɪ'tɪpɪk(ə)l]
+adj. 非典型的 | 网络 不规则的；意思是非典型的；不典型 | Synonym adj. different,unusual,uncommon,strange,odd | Antonym adj. typical
+** awry [ə'raɪ]
+adj. 歪斜的 | adv. 扭曲地 | 网络 扭曲的；走样的；歪曲的 | Synonym adj. crooked,askew,skewed,off beam,out of kilter | Antonym adj. straight,all right
+** bail [beɪl]
+n. 保释；【法律】保释金；保释人；(篷帐的)半圆形支撑箍托 | v. 担保；舀；从(船中)戽出水；【法律】准许保释 | 网络 保证金；保证人；租约 | Synonym n. bond,financial guarantee,payment,security,surety
+** 恢复 [huī fù] 
+na. restore; recover; resume; regain | 网络 Recovery; restoration; get over
+** 还原 [huán yuán] 
+na. restore; reducing; revivification | 网络 Restore; reduction; reduce
+** 复原 [fù yuán] 
+na. restoration; recovery | 网络 Recovery; Undo; Restore
+** finesse [fɪ'nes]
+n. 手段；手腕；策略 | v. 用策略对付某事；巧妙地做；派头十足地做 | 网络 技巧；飞牌；偷牌 | Synonym n. skill,flair,grace,elegance,poise | Antonym n. clumsiness,tactlessness
+** entangle [ɪn'tæŋɡ(ə)l]
+v. 使纠缠；缠住；套住；使卷入 | 网络 使混乱；使陷入；纠缠术 | Synonym v. tangle,snare,ensnare,catch up,enmesh | Antonym v. free
+** takeaway ['teɪkə.weɪ]
+n. 外卖餐馆；外卖的饭菜；外卖食物 | 网络 外卖店；外卖食品；外带 | Synonym adj. to go,ready-made,precooked,prepared n. takeout,ready meal,carryout,fast food
+** unveile 
+网络 揭开谜底
+** acquaint [ə'kweɪnt]
+v. 使熟悉；使了解 | 网络 认识；使认识；相识 | Synonym v. inform,let know,let in on,apprise,familiarize | Antonym v. keep from
+** acquainted [ə'kweɪntɪd]
+adj. 熟悉；了解；（与某人）相识 | v. “acquaint”的过去分词和过去式 | 网络 知晓的；熟悉的；对某事物熟悉的 | Synonym adj. familiar,conversant,accustomed,used to,au fait
+** intersperse [.ɪntə(r)'spɜː(r)s]
+v. 散布；散置；点缀 | 网络 分散；埸迭；撒布 | Synonym v. mix together,combine,scatter,spread,sprinkle
+** brevity ['brevəti]
+n. 简洁；简练；短暂 | 网络 简短；简洁明了；简短明了 | Synonym n. shortness,briefness,quickness,swiftness,transience | Antonym n. length
+** gloss [ɡlɒs]
+n. 光亮；用以产生光泽的物质；光泽涂料；亮光漆 | v. 在…上作注释（或评注） | 网络 光泽度；光彩；注解 | Synonym v. annotate,interpret,explain,comment on,note n. luster,polish,annotation,commentary,interpretation | Antonym n. misinformation
+** whirlwind ['wɜː(r)l.wɪnd]
+n. 旋风；旋流；一片忙乱 | adj. 快速的；匆匆忙忙的；旋风似的 | 网络 旋风斩；龙卷风；旋风行动 | Synonym n. tornado,hurricane,cyclone,waterspout,twister adj. rapid,short-lived,tumultuous,brief,swift | Antonym adj. leisurely
+** bloat [bləʊt]
+n. 〈美〉肿胀病人；(家畜的)气胀病；〈美俚〉醉鬼 | v. 肿胀 | 网络 膨胀；胃气胀；臌胀 | Synonym v. swell,inflate,blow up,expand,distend | Antonym v. contract
+** hexadecimal [.heksə'desɪm(ə)l]
+adj. 十六进制的 | 网络 十六进位；十六进制数；十六进位制
 ** gist [dʒɪst]
 n. 要点；大意；主旨 | 网络 胃肠道间质瘤；胃肠间质瘤；胃肠道间质肿瘤 | Synonym n. idea,essence,substance,point,meaning
 ** boilerplate ['bɔɪlə(r).pleɪt]
