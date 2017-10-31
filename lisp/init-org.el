@@ -9,9 +9,9 @@
 ;;; Code:
 
 ;; added by ssj
+(setq org-agenda-files '("~/git/org/"))
 
-
-(setq org-agenda-files (file-expand-wildcards "~/git/org/*.org"))
+;;(setq org-agenda-files (file-expand-wildcards "~/git/org/*.org"))
 
 (setq org-todo-keywords
       (quote ((sequence "TODO(t)" "NEXT(n)" "|" "DONE(d)")
@@ -29,6 +29,7 @@
 
 (setq org-startup-indented t)
 
+(setq org-src-fontify-natively t)
 
 (provide 'init-org)
 ;;; init-org.el ends here
