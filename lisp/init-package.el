@@ -57,6 +57,7 @@
 ;;(global-set-key (kbd "C-S-o") 'counsel-rhythmbox)
 (define-key read-expression-map (kbd "C-r") 'counsel-expression-history)
 
+(global-set-key (kbd "C-M-\\") 'indent-region-or-buffer)
 
 (provide 'init-package)
 ;;; init-package.el ends here
