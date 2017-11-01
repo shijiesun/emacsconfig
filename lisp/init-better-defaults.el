@@ -142,5 +142,15 @@
       monokai-height-plus-3 1.2
       monokai-height-plus-4 1.3)
 
+(global-set-key (kbd "C-S-c C-S-c") 'mc/edit-lines)
+
+(global-set-key (kbd "C->") 'mc/mark-next-like-this)
+(global-set-key (kbd "C-<") 'mc/mark-previous-like-this)
+(global-set-key (kbd "C-c C-<") 'mc/mark-all-like-this)
+
+
+(global-set-key (kbd "M-n") (lambda () (interactive) (scroll-up   4)) )
+(global-set-key (kbd "M-p") (lambda () (interactive) (scroll-down 4)) )
+
 (provide 'init-better-defaults)
 ;;; init-better-defaults.el ends here
