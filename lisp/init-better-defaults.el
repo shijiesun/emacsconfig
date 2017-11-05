@@ -10,7 +10,7 @@
 
 ;; added by ssj
 
-(setq prelude-theme 'monokai)
+;;(setq prelude-theme 'monokai)
 
 (setq make-backup-files nil)
 
@@ -151,6 +151,8 @@
 
 (global-set-key (kbd "M-n") (lambda () (interactive) (scroll-up   4)) )
 (global-set-key (kbd "M-p") (lambda () (interactive) (scroll-down 4)) )
+
+(global-set-key (kbd "C-w") 'backward-kill-word)
 
 (provide 'init-better-defaults)
 ;;; init-better-defaults.el ends here
