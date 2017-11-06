@@ -1,4 +1,10 @@
 * Vocabulary
+** 运维 
+网络 EOMS; DevOps; ITIL
+** 政府 [zhèng fǔ] 
+na. government | 网络 administration; state; the government
+** 文化 [wén huà] 
+na. culture; civilization; literacy | 网络 Culture; cultural; cultures
 ** 儿歌 [ér gē] 
 na. children's song; nursery rhymes | 网络 Nursery Rhymes; Songs; Children's Song
 ** extraneous [ɪk'streɪniəs]
